@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Nostr: npub17zdmgzsuwjv9h8zeuu47nkeqp4l7yhgt2cwy67fttupgs2tmdw2sshwfrg
+
 This resume/profile page is pretty new and hence under construction.
 [https://victorieeman.github.io/](https://victorieeman.github.io/)
 To do: Replace stopgap text with actual information.
