@@ -3,9 +3,8 @@
 Nostr: npub1lgqktg83jtasayw8mpcsu46hptf8kdc4effps8mv20ymyqeewpes09l4ps
 
 Crypto donations* \
-BTC: <a href="https://victoriee.com/btcpay" target="_blank">https://victoriee.com/btcpay</a>
- *(using a btcpay server for both on-/offchain donations)*\
-ETH: <a href="https://victoriee.eth.xyz" target="_blank">victoriee.eth</a>
+BTC: [https://victoriee.com/btcpay](https://victoriee.com/btcpay) *(using a btcpay server for both on-/offchain donations)*\
+ETH: [victoriee.eth](https://victoriee.eth.xyz)
 
 *Not needed but attaching a comment/refference to what you support is nice
 
