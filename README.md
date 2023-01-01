@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Nostr: npub1lgqktg83jtasayw8mpcsu46hptf8kdc4effps8mv20ymyqeewpes09l4ps
+[https://victoriee.eth.xyz/](https://victoriee.eth.xyz/)
 
 This resume/profile page is pretty new and hence under construction.
 [https://victorieeman.github.io/](https://victorieeman.github.io/)
