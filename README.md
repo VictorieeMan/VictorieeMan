@@ -2,7 +2,11 @@
 
 Nostr: npub1lgqktg83jtasayw8mpcsu46hptf8kdc4effps8mv20ymyqeewpes09l4ps
 
-[https://victoriee.eth.xyz/](https://victoriee.eth.xyz/)
+Crypto donations* \
+BTC: https://victoriee.com/btcpay *(using a btcpay server for both on-/offchain donations)*\
+ETH: [victoriee.eth](https://victoriee.eth.xyz/) \
+
+*Not needed but attaching a comment/refference to what you support is nice
 
 This resume/profile page is pretty new and hence under construction.
 [https://victorieeman.github.io/](https://victorieeman.github.io/)
