@@ -8,6 +8,7 @@ Mail: victor.oiove@e-mail.victoriee.org
 
 Nostr: npub1lgqktg83jtasayw8mpcsu46hptf8kdc4effps8mv20ymyqeewpes09l4ps
 
+\
 Crypto donations* \
 BTC: [https://victoriee.com/btcpay](https://victoriee.com/btcpay) *(using a btcpay server for both on-/offchain donations)*\
 ETH: [victoriee.eth](https://victoriee.eth.xyz) <!--*(You can send directly to this domain in your ETH wallet, it's a valid adress :))*--> \
