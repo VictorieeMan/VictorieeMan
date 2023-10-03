@@ -61,6 +61,8 @@ Goal: Share insights and write about programming, algorithms and technical stuff
 To do: Publish first real blog post.
 -->
 
+https://tech.victoriee.com/
+
 <!--
 **VictorieeMan/VictorieeMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
