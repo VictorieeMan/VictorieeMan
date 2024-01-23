@@ -1,6 +1,8 @@
 ### Hi there 👋
 [Hire me!](https://gist.github.com/VictorieeMan/384928dab6d0d9649f19c8b658498e81) I'm a fast learner, who love solving problems. Looking for a junior position in a technical role. Computer language agnostic (code is code), but I would like to develop my C++ skills in a production environment. For more info, click the "Hire me!" link at beginning of message.
 
+Visit my site [tech.victoriee.com](https://tech.victoriee.com)
+
 
 Contact: 
 
