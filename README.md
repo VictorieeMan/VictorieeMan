@@ -3,6 +3,7 @@
 
 Visit my site [tech.victoriee.com](https://tech.victoriee.com)
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,flutter)](https://skillicons.dev)
 
 Contact: 
 
